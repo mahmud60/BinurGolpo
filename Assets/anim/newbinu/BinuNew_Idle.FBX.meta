@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: c6cb8e7903ce71e4fb0cff2c782a4de2
+timeCreated: 1493747266
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BinuCat_Bun
+    100002: BinuCat_Chest_
+    100004: BinuCat_Head_
+    100006: BinuCat_LArm1
+    100008: BinuCat_LArmCollarbone
+    100010: BinuCat_LLeg1
+    100012: BinuCat_LLeg2
+    100014: BinuCat_LLegCollarbone
+    100016: BinuCat_Pelvis_
+    100018: BinuCat_RArm1
+    100020: BinuCat_RArmCollarbone
+    100022: BinuCat_RLeg1
+    100024: BinuCat_RLeg2
+    100026: BinuCat_RLegCollarbone
+    100028: BinuCat_Spine
+    100030: BinuCat_Spine 1
+    100032: //RootNode
+    100034: LP Binu
+    400000: BinuCat_Bun
+    400002: BinuCat_Chest_
+    400004: BinuCat_Head_
+    400006: BinuCat_LArm1
+    400008: BinuCat_LArmCollarbone
+    400010: BinuCat_LLeg1
+    400012: BinuCat_LLeg2
+    400014: BinuCat_LLegCollarbone
+    400016: BinuCat_Pelvis_
+    400018: BinuCat_RArm1
+    400020: BinuCat_RArmCollarbone
+    400022: BinuCat_RLeg1
+    400024: BinuCat_RLeg2
+    400026: BinuCat_RLegCollarbone
+    400028: BinuCat_Spine
+    400030: BinuCat_Spine 1
+    400032: //RootNode
+    400034: LP Binu
+    4300000: LP Binu
+    7400000: BinuNew_Idle
+    9500000: //RootNode
+    13700000: LP Binu
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BinuNew_Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BinuCat_Pelvis_
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_LLegCollarbone
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_LLegCollarbone/BinuCat_LLeg1
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_LLegCollarbone/BinuCat_LLeg1/BinuCat_LLeg2
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_RLegCollarbone
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_RLegCollarbone/BinuCat_RLeg1
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_RLegCollarbone/BinuCat_RLeg1/BinuCat_RLeg2
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_Spine
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_Spine/BinuCat_Chest_
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_Spine/BinuCat_Chest_/BinuCat_LArmCollarbone
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_Spine/BinuCat_Chest_/BinuCat_LArmCollarbone/BinuCat_LArm1
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_Spine/BinuCat_Chest_/BinuCat_RArmCollarbone
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_Spine/BinuCat_Chest_/BinuCat_RArmCollarbone/BinuCat_RArm1
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_Spine/BinuCat_Chest_/BinuCat_Spine 1
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_Spine/BinuCat_Chest_/BinuCat_Spine 1/BinuCat_Head_
+        weight: 1
+      - path: BinuCat_Pelvis_/BinuCat_Spine/BinuCat_Chest_/BinuCat_Spine 1/BinuCat_Head_/BinuCat_Bun
+        weight: 1
+      - path: LP Binu
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

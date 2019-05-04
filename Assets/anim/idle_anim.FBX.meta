@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: f9be9b69194591b4989dea8b04b150db
+timeCreated: 1492715782
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Doll
+    100002: DollCAT_
+    100004: DollCAT_Head
+    100006: DollCAT_LArm1
+    100008: DollCAT_LArmPalm
+    100010: DollCAT_LLeg_1
+    100012: DollCAT_LLeg_Ankle
+    100014: DollCAT_Pelvis_
+    100016: DollCAT_RArm1
+    100018: DollCAT_RArmPalm
+    100020: DollCAT_RLeg1
+    100022: DollCAT_RLegAnkle
+    100024: DollCAT_Spine1
+    100026: DollCAT_Spine1 1
+    100028: DollCAT_Spine2
+    100030: DollCAT_Spine2 1
+    100032: DollCAT_Spine3
+    100034: DollCAT_Spine4
+    100036: DollCAT_Spine5
+    100038: DollCAT_Torso_
+    100040: //RootNode
+    400000: Doll
+    400002: DollCAT_
+    400004: DollCAT_Head
+    400006: DollCAT_LArm1
+    400008: DollCAT_LArmPalm
+    400010: DollCAT_LLeg_1
+    400012: DollCAT_LLeg_Ankle
+    400014: DollCAT_Pelvis_
+    400016: DollCAT_RArm1
+    400018: DollCAT_RArmPalm
+    400020: DollCAT_RLeg1
+    400022: DollCAT_RLegAnkle
+    400024: DollCAT_Spine1
+    400026: DollCAT_Spine1 1
+    400028: DollCAT_Spine2
+    400030: DollCAT_Spine2 1
+    400032: DollCAT_Spine3
+    400034: DollCAT_Spine4
+    400036: DollCAT_Spine5
+    400038: DollCAT_Torso_
+    400040: //RootNode
+    4300000: Doll
+    7400000: Idle_anim
+    9500000: //RootNode
+    13700000: Doll
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle_anim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Doll
+        weight: 1
+      - path: DollCAT_
+        weight: 1
+      - path: DollCAT_Pelvis_
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_LLeg_1
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_LLeg_1/DollCAT_LLeg_Ankle
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_RLeg1
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_RLeg1/DollCAT_RLegAnkle
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_Spine1
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_Spine1/DollCAT_Spine2
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_Spine1/DollCAT_Spine2/DollCAT_Spine3
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_Spine1/DollCAT_Spine2/DollCAT_Spine3/DollCAT_Spine4
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_Spine1/DollCAT_Spine2/DollCAT_Spine3/DollCAT_Spine4/DollCAT_Spine5
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_Spine1/DollCAT_Spine2/DollCAT_Spine3/DollCAT_Spine4/DollCAT_Spine5/DollCAT_Torso_
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_Spine1/DollCAT_Spine2/DollCAT_Spine3/DollCAT_Spine4/DollCAT_Spine5/DollCAT_Torso_/DollCAT_LArm1
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_Spine1/DollCAT_Spine2/DollCAT_Spine3/DollCAT_Spine4/DollCAT_Spine5/DollCAT_Torso_/DollCAT_LArm1/DollCAT_LArmPalm
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_Spine1/DollCAT_Spine2/DollCAT_Spine3/DollCAT_Spine4/DollCAT_Spine5/DollCAT_Torso_/DollCAT_RArm1
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_Spine1/DollCAT_Spine2/DollCAT_Spine3/DollCAT_Spine4/DollCAT_Spine5/DollCAT_Torso_/DollCAT_RArm1/DollCAT_RArmPalm
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_Spine1/DollCAT_Spine2/DollCAT_Spine3/DollCAT_Spine4/DollCAT_Spine5/DollCAT_Torso_/DollCAT_Spine1
+          1
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_Spine1/DollCAT_Spine2/DollCAT_Spine3/DollCAT_Spine4/DollCAT_Spine5/DollCAT_Torso_/DollCAT_Spine1
+          1/DollCAT_Spine2 1
+        weight: 1
+      - path: DollCAT_Pelvis_/DollCAT_Spine1/DollCAT_Spine2/DollCAT_Spine3/DollCAT_Spine4/DollCAT_Spine5/DollCAT_Torso_/DollCAT_Spine1
+          1/DollCAT_Spine2 1/DollCAT_Head
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: DollCAT_
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

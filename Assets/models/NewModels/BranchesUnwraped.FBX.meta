@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 63c8bf4d20171b54db9c24a69abd6010
+timeCreated: 1493998054
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: brunch
+    100004: brunch1
+    100006: brunch2
+    100008: brunch2_D
+    100010: brunch2_U
+    100012: brunch3
+    100014: brunch3_D
+    100016: brunch3_U
+    100018: brunch5
+    100020: brunch5_D
+    100022: brunch5_U
+    100024: brunch6
+    100026: brunch7
+    100028: brunch8
+    100030: brunch8_D
+    100032: brunch8_U
+    100034: brunch_D
+    100036: brunch_U
+    400000: //RootNode
+    400002: brunch
+    400004: brunch1
+    400006: brunch2
+    400008: brunch2_D
+    400010: brunch2_U
+    400012: brunch3
+    400014: brunch3_D
+    400016: brunch3_U
+    400018: brunch5
+    400020: brunch5_D
+    400022: brunch5_U
+    400024: brunch6
+    400026: brunch7
+    400028: brunch8
+    400030: brunch8_D
+    400032: brunch8_U
+    400034: brunch_D
+    400036: brunch_U
+    2300000: brunch
+    2300002: brunch1
+    2300004: brunch2
+    2300006: brunch2_D
+    2300008: brunch2_U
+    2300010: brunch3
+    2300012: brunch3_D
+    2300014: brunch3_U
+    2300016: brunch5
+    2300018: brunch5_D
+    2300020: brunch5_U
+    2300022: brunch6
+    2300024: brunch7
+    2300026: brunch8
+    2300028: brunch8_D
+    2300030: brunch8_U
+    2300032: brunch_D
+    2300034: brunch_U
+    3300000: brunch
+    3300002: brunch1
+    3300004: brunch2
+    3300006: brunch2_D
+    3300008: brunch2_U
+    3300010: brunch3
+    3300012: brunch3_D
+    3300014: brunch3_U
+    3300016: brunch5
+    3300018: brunch5_D
+    3300020: brunch5_U
+    3300022: brunch6
+    3300024: brunch7
+    3300026: brunch8
+    3300028: brunch8_D
+    3300030: brunch8_U
+    3300032: brunch_D
+    3300034: brunch_U
+    4300000: brunch5_U
+    4300002: brunch5_D
+    4300004: brunch8
+    4300006: brunch8_D
+    4300008: brunch3_U
+    4300010: brunch3_D
+    4300012: brunch_U
+    4300014: brunch_D
+    4300016: brunch2
+    4300018: brunch2_U
+    4300020: brunch
+    4300022: brunch1
+    4300024: brunch2_D
+    4300026: brunch3
+    4300028: brunch5
+    4300030: brunch6
+    4300032: brunch7
+    4300034: brunch8_U
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
